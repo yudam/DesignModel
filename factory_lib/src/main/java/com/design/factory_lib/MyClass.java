@@ -10,5 +10,6 @@ public class MyClass {
          *面向对象编程，客户端只需要给出想要的对象其他交由Factory处理
          */
         AnimalFactory.createOperate(1).draw();
+
     }
 }
