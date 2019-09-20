@@ -1,1 +1,1 @@
-include ':app', ':factory_lib', ':strategy_lib'
+include ':app', ':factory_lib', ':strategy_lib', ':decorate_lib'
